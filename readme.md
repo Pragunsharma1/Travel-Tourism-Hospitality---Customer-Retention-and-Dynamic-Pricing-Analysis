@@ -110,3 +110,11 @@ This project lays a data-driven foundation for smarter pricing and stronger cust
 
 
 ---
+
+
+
+<img width="1199" height="789" alt="image" src="https://github.com/user-attachments/assets/cff59d46-2f86-4c2b-82f4-28a2ca190c9b" />
+<img width="997" height="727" alt="image" src="https://github.com/user-attachments/assets/873928ff-2871-4cf7-8963-0b2d0b4b36f9" />
+<img width="1064" height="786" alt="image" src="https://github.com/user-attachments/assets/d9e89934-6239-4305-a33f-87e42f54aabb" />
+
+
